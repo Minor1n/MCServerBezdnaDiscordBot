@@ -1,0 +1,17 @@
+{
+    "token": "TOKEN",
+    "biography": {
+        "modal": [
+            {
+                "label": "⟫ Ваш никнейм",
+                "placeholder": "Steve",
+                "style": "TextInputStyle.Short"
+            },
+            {
+                "label": "⟫ О персонаже",
+                "placeholder": "",
+                "style": "TextInputStyle.Paragraph"
+            }
+        ]
+    }
+}
